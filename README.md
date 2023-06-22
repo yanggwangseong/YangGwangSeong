@@ -1,5 +1,5 @@
 # GwangSeong Yang 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangGwangSeong&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangGwangSeong&layout=compact&theme=radical)](https://github.com/YangGwangSeong/github-readme-stats)
 
 ## About 🙋‍♀️
