@@ -1,6 +1,6 @@
 # GwangSeong Yang 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangGwangSeong&layout=compact&theme=radical)](https://github.com/YangGwangSeong/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangGwangSeong)](https://github.com/anuraghazra/github-readme-stats)
 ## About 🙋‍♀️
 <!--
 - Mail <a href="mailto:minzidev@gmail.com">minzidev@gmail.com</a>
