@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangGwangSeong&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soawn83)](https://solved.ac/soawn83/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=soawn83&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=soawn83&theme=cold)
 ## About 🙋‍♀️
 <!--
 - Mail <a href="mailto:minzidev@gmail.com">minzidev@gmail.com</a>
