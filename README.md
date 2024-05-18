@@ -1,6 +1,9 @@
 # GwangSeong Yang 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangGwangSeong&layout=compact&theme=radical)](https://github.com/YangGwangSeong/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangGwangSeong&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soawn83)](https://solved.ac/soawn83/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=soawn83&theme=dark)
 ## About 🙋‍♀️
 <!--
 - Mail <a href="mailto:minzidev@gmail.com">minzidev@gmail.com</a>
