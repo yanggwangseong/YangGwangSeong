@@ -1,8 +1,11 @@
 # GwangSeong Yang 👋
 
-### TODO TS Effect 입분
-
-### TODO JSR api response type 올려보기
+### TODO 
+- [ ] TS Effect 입분
+- [ ] JSR api response type 올려보기
+- [ ] 1일 코테 문제
+- [ ] 1일 1커밋
+- [ ] 1일 1타챌
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangGwangSeong&layout=compact&theme=radical)](https://github.com/YangGwangSeong/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangGwangSeong&show_icons=true&theme=radical)
