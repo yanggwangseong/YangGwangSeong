@@ -1,5 +1,8 @@
 ![Space Header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=GwangSeongYang&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Hello%20World&descAlignY=60&descSize=20&descColor=d1d1e9)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{yanggwangseong}?pet-id=1" width="1000" height="120"/>
+</a>
 
 # GwangSeong Yang 👋
 
