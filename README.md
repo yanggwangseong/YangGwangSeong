@@ -4,6 +4,8 @@
   <img src="https://render.gitanimals.org/lines/{yanggwangseong}?pet-id=1" width="1000" height="120"/>
 </a>
 
+![snake gif](https://github.com/yanggwangseong/yanggwangseong/blob/output/github-contribution-grid-snake.svg)
+
 # GwangSeong Yang 👋
 
 
