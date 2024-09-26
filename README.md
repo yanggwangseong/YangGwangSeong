@@ -18,9 +18,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangGwangSeong&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soawn83)](https://solved.ac/soawn83/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=soawn83&theme=cold)
+
+
+
 ## About 🙋‍♀️
 <!--
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=soawn83&theme=cold)
 ### TODO 
 - [ ] TS Effect 입문
 - [ ] JSR api response type 올려보기
