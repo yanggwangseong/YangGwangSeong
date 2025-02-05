@@ -23,6 +23,16 @@
 
 ## About 🙋‍♀️
 <!--
+- 프로젝트
+  - Mokakbab
+    - PDD에 중점을 두어 첫번째 경험으로 많은 시간이 소요 됨.
+    - 포퍼먼스에 집중한 프로젝트
+    - 당근마켓의 동네 생활에 동네 밥친구를 구하는 플랫폼
+  - YangFlearn
+    - 인프런의 VOD 기반의 스트리밍에서 DRM(Digital Rights Management)보호를 위한 집중
+    - DRM 적용 대상 : video html 태그 강의 동영상, 교육 자료(pdf) 다운로드
+    - <video autoplay="" src="blob:https://www.inflearn.com/ab900948-75cd-40b4-8c39-c605a4f74efa"></video>
+    - 인프런에서는 교육 동영상을 blob데이터를 통해서 src에 넣어서 실행 할 수 있게 하는군.
 - Life
 일상 생활에서 겪고 있는 문제를 소프트웨어 기술을 통해서 해결 하기를 좋아합니다.
 알고리즘 : 깃허브와 이슈 커밋 메세지 템플릿을 통한 오답노트를 작성, 간단한 웹사이트로 풀었던 문제들을 모음집을 만듭니다.
@@ -42,6 +52,8 @@ Task ManageMent : 태스크를 만들면 우선순위, 임팩트, 타임포인�
 - 개발 방법론
 개인적으로 생각하는 priority
 1. Performance-Driven Development(PDD)
+  - 자동화
+    - 코드 푸시 발생 하면 github actions로 자동화!!!!!!
   - CPU Intensive
   - I/O Intensive
   - Memory
@@ -70,6 +82,7 @@ Task ManageMent : 태스크를 만들면 우선순위, 임팩트, 타임포인�
     - mysql2 (O)
     - @nestjs/jwt, jsonwebtoken (O)
     - NestJS
+    - reflect-metadata
     - class-transformer
     - class-validator
     - 기술을 도입하기 위한 Node.js에서는 보통 커뮤니티 라이브러리를 많이 사용하는데 
