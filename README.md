@@ -38,7 +38,11 @@ CS
 프로젝트
 - 모각밥
 Articles
-- 5개정도
+- fastify와-express with NestJS
+- S3 multer AWS SDK JS NestJS
+- NestJS TypeORM mysql2
+- Performance
+- TestCode
 Book
 - 객체지향의 사실과 오해
 - 오브젝트책
