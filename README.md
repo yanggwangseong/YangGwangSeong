@@ -23,7 +23,19 @@
 
 ## About 🙋‍♀️
 <!--
-개발방법론에 대한 생각
+소개와 가치관 블라블라
+
+알고리즘
+알고노트와 리액트 배포 버셀
+CS
+운영체제
+네트워크
+데이터베이스
+
+프로젝트
+모각밥
+Articles
+5개정도
 ***
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyanggwangseong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
