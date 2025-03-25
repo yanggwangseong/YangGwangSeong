@@ -35,7 +35,11 @@
    - 오답노트
 2. TIL, 블로그 운영, 1일 1커밋을 한번에 해결 할 수 있을까?
   - jekelly와 obsidian 기반의 블로그 운영 (블로그 링크추가)
-  
+
+> 외부 라이브러리 도입시 Side-Effect를 zero cost에 가깝게 유지 할 수 있을까?
+
+1. side-effect가 zero-cost에 가까운 NestJS boilerplate 연구
+
 ## Project
   - 모각밥 프로젝트
   
