@@ -20,10 +20,39 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soawn83)](https://solved.ac/soawn83/)
 
 
+<!--
 
 ## About 🙋‍♀️
-<!--
-소개와 가치관 블라블라
+
+## TS 기반 About me
+  - 테크 블로그 뱃지 추가, 블로그의 RESUME 뱃지 추가, 이메일 뱃지 추가
+  
+## 고민
+
+> 현실의 문제를 어떻게 SoftWare를 통해서 해결 할 수 있을까?
+
+1. 알고리즘 공부를 효율적으로 할 수 있는 방법 (블로그 링크추가)
+   - 오답노트
+2. TIL, 블로그 운영, 1일 1커밋을 한번에 해결 할 수 있을까?
+  - jekelly와 obsidian 기반의 블로그 운영 (블로그 링크추가)
+  
+## Project
+  - 모각밥 프로젝트
+  
+## Article
+
+- fastify와-express with NestJS
+- S3 multer AWS SDK JS NestJS
+- NestJS TypeORM mysql2
+- Performance
+- TestCode
+- Block Scope vs Non Block Scope
+- 다익스트라 알고리즘
+- DP 알고리즘
+
+--- 
+---
+---
 
 알고리즘
 - 알고리즘 문제를 오답노트를 만드는 방법을 좋아합니다
