@@ -43,6 +43,8 @@ Articles
 - NestJS TypeORM mysql2
 - Performance
 - TestCode
+- 다익스트라 알고리즘
+- DP 알고리즘
 Book
 - 객체지향의 사실과 오해
 - 오브젝트책
