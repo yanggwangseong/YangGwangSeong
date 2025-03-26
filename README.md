@@ -51,8 +51,6 @@
 - Performance
 - TestCode
 - Block Scope vs Non Block Scope
-- 다익스트라 알고리즘
-- DP 알고리즘
 
 --- 
 ---
