@@ -24,93 +24,15 @@
 
 ## About 🙋‍♀️
 
-## TS 기반 About me
-  - 테크 블로그 뱃지 추가, 블로그의 RESUME 뱃지 추가, 이메일 뱃지 추가
-  
-## 고민
+"OKR 목표설정론을 통해 프로젝트를 진행했어요!"
+- Mokakbab
+   - 한정된 자원 CPU 1, RAM 1GB환경에서 MAU 1000만 사용자의 RPS를 가정하고 이를 달성 하기
+- DailySentence
+   - 사이드 프로젝트를 어떻게 마케팅해서 구독자를 100명을 달성 할 수 있을까?
 
-> 현실의 문제를 어떻게 SoftWare를 통해서 해결 할 수 있을까?
-
-1. 알고리즘 공부를 효율적으로 할 수 있는 방법 (블로그 링크추가)
-   - 오답노트
-2. TIL, 블로그 운영, 1일 1커밋을 한번에 해결 할 수 있을까?
-  - jekelly와 obsidian 기반의 블로그 운영 (블로그 링크추가)
-
-> 외부 라이브러리 도입시 Side-Effect를 zero cost에 가깝게 유지 할 수 있을까?
-
-1. side-effect가 zero-cost에 가까운 NestJS boilerplate 연구
-
-## Project
-  - 모각밥 프로젝트
-  
-## Article
-
-- fastify와-express with NestJS
-- S3 multer AWS SDK JS NestJS
-- NestJS TypeORM mysql2
-- Performance
-- TestCode
-- Block Scope vs Non Block Scope
-
---- 
----
----
-
-알고리즘
-- 알고리즘 문제를 오답노트를 만드는 방법을 좋아합니다
-1. 이슈기반을 통해서 문제를 등록하고 해당 문제의 오답노트를 커밋 메세지를 통해서 기록
-2. 다시 해당 문제를 풀 때 막히는 경우 이전에 풀었던 나의 오답노트 히스토리인 커밋 메세지에서 힌트를 얻어 풀고 개선 해나가는 방식
-- 알고노트와 리액트 배포 버셀
-- 리트코드 150문제에 영감을 받아 만든 React기반의 문제들의 리스트를 보여주는 웹애플리케이션
-CS
-- 운영체제
-- 네트워크
-- 데이터베이스
-프로젝트
-- 모각밥
-Articles
-- fastify와-express with NestJS
-- S3 multer AWS SDK JS NestJS
-- NestJS TypeORM mysql2
-- Performance
-- TestCode
-- Block Scope vs Non Block Scope
-- 다익스트라 알고리즘
-- DP 알고리즘
-Book
-- 객체지향의 사실과 오해
-- 오브젝트책
-- 이펙티브 TS
-- 아는만큼보이는데이터베이스설계와구축
-- 코어자바스크립트
-- 모던JS딥다이브
-- 공룡책
-- 네트워크탑다운
-- 데이터베이스 시스템
-- UnitTest (Reading)
-- RealMysql (Reading)
-- 데이터중심애플리케이션설계 (Plan)
-- 가상 면접 사례로 배우는 대규모 시스템 설계 기초 (Plan)
-## 기록없음
-- NestJS로 배우는 백엔드 프로그래밍
-- 혼자 공부하는 컴퓨터 구조+운영체제
-- 혼자 공부하는 네트워크
-- 면접을 위한 CS 전공지식 노트
-- 코딩 자율학습 제로초의 자바스크립트 입문
-- Node.js 교과서
-- 함께 자라기
-- 실용주의 프로그래머
-- 소프트웨어 장인
-- 개발자를 위한 레디스
-인강
-- (인프런)[코드팩토리] [초급] 8시간만에 끝내는 코드팩토리의 Typescript 완전정복 풀코스
-- (인프런)[코드팩토리] [초급] NestJS REST API 백엔드 완전 정복 마스터 클래스 - NestJS Core
-- (패스트캠퍼스)코드팩토리의 백엔드 아카데미 : 한 번에 끝내는 NestJS 패키지 - 기초부터 MSA까지
-- (인프런) 오브젝트 - 기초편
-- (인프런) Real MySQL 시즌 1 - Part 1, Real MySQL 시즌 1 - Part 2
-- (인프런) 함수형 프로그래밍과 JavaScript ES6+ , 함수형 프로그래밍과 JavaScript ES6+ 응용편
-- 기타 등등...
-
-***
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyanggwangseong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+"최근에는 이런 관심사를 가지고 있어요!"
+Go
+- [Go를 공부하고 블로그에 기록중이에요](https://yokan.netlify.app/tags/go/)
+Kubernetess
+- [인프런 워밍업 클럽 스터디 4기 - DevOps (쿠버네티스)](https://www.inflearn.com/course/offline/warmup-club-4-devops?srsltid=AfmBOortFHdQPD5bXklHxt3nSH7IbeO4KABSVn5tjNlfkWcLFHhikJUX)에 참여 중이에요
+--!>
