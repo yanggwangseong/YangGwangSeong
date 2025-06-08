@@ -6,7 +6,8 @@
   </a>
 </div>
 
-
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ![snake gif](https://github.com/yanggwangseong/yanggwangseong/blob/output/github-contribution-grid-snake.svg)
 
@@ -37,6 +38,5 @@ Kubernetess
 - [인프런 워밍업 클럽 스터디 4기 - DevOps (쿠버네티스)](https://www.inflearn.com/course/offline/warmup-club-4-devops?srsltid=AfmBOortFHdQPD5bXklHxt3nSH7IbeO4KABSVn5tjNlfkWcLFHhikJUX)에 참여 중이에요
 --!>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
